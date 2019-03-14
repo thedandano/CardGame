@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hand
+comment0.text=\r\n\ Represents\ an\ hand\ of\ cards.\r\n\r\n\ @author\ (Dan\ Sedano)\r\n\ @version\ (10/18/18)\r\n
+comment1.params=
+comment1.target=Hand()
+comment1.text=\r\n\ Creates\ an\ ArrayList\ of\ empty\ hands.\r\n
+comment2.params=c
+comment2.target=void\ addCard(Card)
+comment2.text=\r\n\ Adds\ a\ card\ to\ the\ end\ of\ a\ hand.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ @return\ Returns\ the\ cards\ to\ toString()\r\n
+numComments=4

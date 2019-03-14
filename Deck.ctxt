@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Deck
+comment0.text=\r\n\ Represents\ an\ entire\ deck\ of\ cards.\r\n\r\n\ @author\ (Dan\ Sedano)\r\n\ @version\ (10/18/18)\r\n
+comment1.params=
+comment1.target=Deck()
+comment1.text=\r\n\ Creates\ an\ a\ deck\ of\ 52\ cards.\r\n
+comment2.params=
+comment2.target=void\ shuffle()
+comment2.text=\r\n\ Shuffles\ the\ deck\ of\ cards.\r\n
+comment3.params=
+comment3.target=Card\ dealCard()
+comment3.text=\r\n\ Deals\ a\ card\ and\ will\ provide\ user\ with\ an\ error\ if\ deck\ is\ empty.\r\n\ @return\ The\ card\ delt.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Formats\ the\ output\ of\ the\ entire\ deck.\r\n\ @return\ The\ format\ to\ toString().\r\n
+numComments=5
